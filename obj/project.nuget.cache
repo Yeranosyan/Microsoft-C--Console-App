@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5hTxZ5ILoj+L0Kbc4pOQtxTnvc1rctisszC3ON5+cheqde2CycILL4zTKfUFJU2r1NT0PJUVUKNkSHM3wy+27Q==",
+  "success": true,
+  "projectFilePath": "/Users/yeranosyan/Gagik Yeranosyan/Programming/Microsoft/Projects/8-Guided-project-Work-with-variable-data-in-CSharp-main/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/Users/yeranosyan/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/yeranosyan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/yeranosyan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
